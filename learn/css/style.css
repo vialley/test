@@ -38,7 +38,7 @@ h1 {
 	list-style-type: none;
 	/*Hide the lighting gradient from the front face*/
 	background-size: 0, cover;
-	/*Preserve 3D style for children(pseudo elements)*/
+	/*Preserve 3D style for children(pseudo elements) */
 	-webkit-transform-style: preserve-3d;
 }
 /*Left and Bottom Sides*/
